@@ -20,7 +20,7 @@
 | 项目                  | 描述                              | 进度     |
 | --------------------- | --------------------------------- | -------- |
 | [基于skill的自动化漏洞检测工具](https://github.com/jiangshang-star/ai_vibe_pentest)      | 基于Skills的自动化漏洞检测工具         | 🟢 完成 |
-| [SRC漏洞报告Word模板生成技能](https://github.com/jiangshang-star/src-vuln-report-docx) | 五段式漏洞报告 .docx 模板，零依赖生成器 | 🟢 完成 |
+| [SRC漏洞提交报告规范模板](https://github.com/jiangshang-star/src-vuln-report-docx) | 五段式漏洞报告 .docx 模板，零依赖生成器 | 🟢 完成 |
 
 
 
