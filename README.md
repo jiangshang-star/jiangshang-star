@@ -23,7 +23,7 @@
 | [SRC漏洞提交报告规范模板](https://github.com/jiangshang-star/src-vuln-report-docx) | 四段式漏洞报告 .docx 模板，源自实战报告，零依赖生成器 | 🟢 完成 |
 | [母题画廊 · 东西方名画对照长卷](https://jiangshang-star.github.io/motif-gallery/) | 954 件东西方大师 CC0 真迹按 31 个母题（河/山/月/雨…）并排对照，单文件纯静态画廊（[仓库](https://github.com/jiangshang-star/motif-gallery)） | 🟢 完成 |
 | [图语 · Prompt Reverse](https://jiangshang-star.github.io/prompt-mirror/) | 上传图片反推可直接编辑的中文提示词，BYOK 自带视觉模型 Key、纯静态无后端（[仓库](https://github.com/jiangshang-star/prompt-mirror)） | 🟢 完成 |
-| [XSS 注入闯关靶场](https://jiangshang-star.github.io/xss-lab/) | 8 关 XSS / SQLi 交互式闯关教学，HTML5 + 原生 JavaScript 单文件零依赖；sandbox iframe 隔离执行 payload、postMessage 判定通关（[仓库](https://github.com/jiangshang-star/xss-lab)） | 🟢 完成 |
+| [XSS 注入闯关靶场](https://jiangshang-star.github.io/xss-lab/) | 8 关 XSS / SQLi 交互式闯关教学，HTML5 + 原生 JavaScript 单文件零依赖；sandbox iframe 隔离执行 payload、postMessage 判定通关（[仓库](https://github.com/jiangshang-star/xss-lab)） | 🟠 维护中 |
 
 
 
